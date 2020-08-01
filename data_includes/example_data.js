@@ -14,7 +14,6 @@ for(var i = 0; i < 10; i++) {
 var completionMessage = "お疲れ様でした。確認コードは"+randomcode+"です。このコードをコピーし、Lancers画面の入力フォームへペーストすると作業完了です。";
 
 
-
 var defaults = [
     "AcceptabilityJudgment", {
         as: ["1", "2", "3", "4", "5","6","7"],
