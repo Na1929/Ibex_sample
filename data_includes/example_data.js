@@ -16,7 +16,7 @@ var completionMessage = "お疲れ様でした。確認コードは"+randomcode+
 
 var defaults = [
     "AcceptabilityJudgment", {
-        as: ["1", "2", "3", "4", "5","6","7"],
+        as: ["1", "2", "3", "4", "5", "6", "7"],
         presentAsScale: true,
         instructions: "数字をクリックするか、数字キーを押してください。",
         leftComment: "不自然", rightComment: "自然"
