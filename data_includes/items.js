@@ -1,7 +1,7 @@
 var items = [
          ["sep", "SeparatorZ", { }],
          ["setcounter", "__SetCounter__", { }],
-       //intro.html: general instruction and consent form
+       //intro.html: general instruction, demographic collection and consent form
          ["intro", "Form", {
              html: { include: "intro.html" },
              validators: {
